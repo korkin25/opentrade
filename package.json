@@ -13,6 +13,7 @@
 	  "sqlite3": "latest",
 	  "ejs": "latest",
 	  "cors": "latest",
-	  "debug": "latest"
+	  "debug": "latest",
+	  "mysql": "lastest
   }
 }
